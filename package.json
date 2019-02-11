@@ -1,0 +1,11 @@
+{
+  "name": "dominik",
+  "version": "1.0.0",
+  "description": "Portfolio Website with Sass",
+  "main": "index.js",
+  "scripts": {
+    "sass": "echo \"Hello from sass script\""
+  },
+  "author": "Dominik",
+  "license": "MIT"
+}
