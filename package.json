@@ -1,11 +1,11 @@
 {
-  "name": "dominik",
+  "name": "dsosnowski",
   "version": "1.0.0",
-  "description": "Portfolio Website with Sass",
+  "description": "asdasdasd",
   "main": "index.js",
   "scripts": {
-    "sass": "echo \"Hello from sass script\""
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
   },
-  "author": "Dominik",
+  "author": "Dominik Sosnowski",
   "license": "MIT"
 }
